@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: burlywood;
+    color: rgb(12, 12, 12);
+    font-family: Arial, sans-serif;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1{color: rgb(0, 0, 0);
+    text-align: center;
+    margin-bottom: 25px;
+}
+h2{color: rgb(10, 0, 0);
+    margin-top: 30px;
+    border-bottom: 2px solid rgba(0, 0, 0,1);
+    padding-bottom: 5px;
+}
+.bloque-titulo{
+    background-color: rgba(84, 42, 11, 0.307);
+    padding: 20px;
+    margin-bottom:20px;
+    border-radius: 10px;
+}
+.bloque-ingredientes{
+    background-color: rgb(157, 131, 97);
+    padding:20px;
+    margin-bottom:20px;
+    border-radius: 10px;
+    
+}
+.bloque-preparacion{
+    background-color: rgba(192, 160, 146, 0.558);
+    padding:20px;
+    margin-bottom:20px;
+    border-radius: 10px;
+}
+table{
+    width: 100%;
+    border-collapse:collapse;
+    margin-top: 10px
+    padding"10px 20px";
+}
+.class-mensaje-final{
+    text-align: center;
+    font-style: italic;
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+}
+
